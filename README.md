@@ -28,4 +28,4 @@
 
 # Technical Interview Questions solved with Go:-
   
-  ## Datastructures
+  * [Datastructures](https://github.com/Neeraj1997-dev/Go-Interview-Questions-Answers/tree/main/datastructures)
