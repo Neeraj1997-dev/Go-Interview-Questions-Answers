@@ -26,4 +26,6 @@
    * According to the 2020 Stack Overflow Developer Survey, Go is one of the most loved languages by developers who use it. 
    *Go’s own 2020 developer survey seems to agree, with a 92% satisfaction rating by Go users.
 
-## *********** Technical Interview Questions solved with Go **************************
+# Technical Interview Questions solved with Go:-
+  
+  ## Datastructures
